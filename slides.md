@@ -1,7 +1,4 @@
 ---
-theme: "night"
-slideNumber: true
-highlightTheme: "monokai"
 title: "My first deck"
 ---
 
